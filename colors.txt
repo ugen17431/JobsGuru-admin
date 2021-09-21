@@ -1,6 +1,6 @@
-Colors: child1 branch
+Colors: child2 branch
 Red
 Green
 Blue
 Pink
-child1
+child2
