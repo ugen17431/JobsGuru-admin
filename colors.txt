@@ -3,4 +3,6 @@ Red
 Green
 Blue
 Pink
+Violet 
+Yellow
 child2
